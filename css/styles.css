@@ -47,6 +47,8 @@ div.wrapper {
     background-color: #FABC75;
     top: 0px;
     right: 0px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 
@@ -81,6 +83,10 @@ div.wrapper {
     .label.chicken {
         background-color: #EA380A;
         color: #ffffff;
+    }
+    .label.sushi {
+        background-color: #EBC800;
+        color: #EB2A20;
     }
 }
 
